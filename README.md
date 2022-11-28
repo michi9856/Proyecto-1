@@ -37,6 +37,7 @@ Específicos:
 
 # 2.Marco Teórico
 
+![image](https://user-images.githubusercontent.com/116813974/204387033-2cfae57c-d7dc-4e1f-87b6-529eb3166d71.png)
 
 
 
