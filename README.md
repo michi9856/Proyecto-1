@@ -5,42 +5,46 @@ Led nocturno automático
 Integrantes:
 Michael Toroche
 
-NRC:
+NRC: 10063
 
 Docente: Ing. Darwin Alulema
 
-Tema:
+Tema:Led nocturno automático
 
 # 1.OBJETIVOS
 General:
-
-Identificar las relaciones serie-paralelo
+• Crear un circuito fisico. 
+• Aprender sobre los componentes que estamos manupulando. 
+• Drle forma a circuitos basicos en la voda real.
 
 Específicos:
 
-◆ Analizar circuitos en serie-paralelo
+• Analizar circuitos de forma real.
 
-◆ Analizar divisores de voltaje con carga
+• Aplicar los conceptos aprendidos como circuitos en serie y paralelo.
 
-◆ Determinar el efecto de carga de un voltímetro en un circuito
+• Determinar el efecto de la luz en el la fotocelda.
 
-◆ Analizar redes en escalera
+• Analizar y aplicar un campo util para dicho circuito.
 
-◆ Analizar y aplicar un puente de Wheatstone
+• Analizar el volatje junto al potenciometro en funcion al efecto que tiene en los leds.
 
-◆ Localizar fallas en circuitos
+• Localizar fallas en circuitos.
 
-◆ Aplicar los teoremas de Thevenin y Nhorton correctamente para poder cimplificar los circuitos.
+• Aplicar lo aprendido en los laboratorios y el cimulador.
 
-# 2.Marco Teórico
-# VIDEO
+# 2. MARCO TEÓRICO
 
-CONCLUSIONES
--En un circuito se pueden encontrar resistencias en serie y en paralelo y se tienen que analizar correctamente para encontrar una resistencia equivalente que nos servira despues para los diferentes teoremas
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
--Las conversiones de fuente son de dos tipos, la primera la conversión de una fuente de voltaje en una fuente de corriente, en este caso se deberá dividir el voltaje de la fuente entre la resistencia interna de la fuente que por lo general es igual a cero. El segundo tipo es la conversión de una fuente de corriente en una fuente de voltaje, en este caso la corriente de la fuente se debe multiplicar por la resistencia interna de la fuente, que es la mayoría de los casos se le considera infinita.
+# 4. VIDEO
 
--El teorema de Thevenin y Norton nos ayuda a simplificar un circuito extenso nos sirve para calcular una resistencia y voltaje equivalente ahi atravez de llegar a sus circuitos distintos equivalentes podemos calcular lo que nos pida el teorema de thevenin nos queda en funcion de voltje y el de Norton en funcion de una fuente resistencia.
+# 5. CONCLUSIONES
+• En un circuito se pueden encontrar que muchos componentes estan en en serie y en paralelo, junto a lo aprendido amteriormente ya sabemos como pasamos de una simulacion a un circuito real.
 
-BIBLIOGRAFÍA
+• 
+
+• 
+
+# 6. BIBLIOGRAFÍA
 TOMÁS, F. (2007). Principios de circuitos eléctricos.Octava edición.
