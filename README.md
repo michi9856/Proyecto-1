@@ -14,8 +14,10 @@ Tema:Led nocturno automático
 # 1.OBJETIVOS
 General:
 • Crear un circuito fisico. 
-• Aprender sobre los componentes que estamos manupulando. 
-• Drle forma a circuitos basicos en la voda real.
+
+• Aprender sobre los componentes electronicos que estamos manupulando. 
+
+• Darle forma a circuitos basicos en la vida real.
 
 Específicos:
 
