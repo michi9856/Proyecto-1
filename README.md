@@ -5,6 +5,8 @@ Led nocturno automático
 Integrantes:
 Michael Toroche
 
+Jhon Quingatuña
+
 NRC: 10063
 
 Docente: Ing. Darwin Alulema
