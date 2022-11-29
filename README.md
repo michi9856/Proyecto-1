@@ -3,12 +3,7 @@ Led nocturno automático
 # Universidad de las Fuerzas Armadas "ESPE"
 
 Integrantes:
-
-• Michael Bryan Toroche Quishpe
-
-• Jhon Steven Quingatuña Moreano
-
-• Anthony Javier Cevallos Ramírez
+Michael Toroche
 
 NRC: 10063
 
@@ -98,11 +93,12 @@ Específicos:
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
 • En un circuito se pueden encontrar que muchos componentes estan en en serie y en paralelo, junto a lo aprendido amteriormente ya sabemos como pasamos de una simulacion a un circuito real.
 
-• 
+• Los componentes de dicho circuitos como el trancistor y el fotoresistor dan una nocion de ideas que podemos aplicar en diversos aspectos.
 
-• 
+• Hay muchas formas de armar el circuito, no especificamente como en el video, entonces buscamos una forma de que funcione ´pues hubo dificultades.
 
 # 6. BIBLIOGRAFÍA
 TOMÁS, F. (2007). Principios de circuitos eléctricos.Octava edición.
