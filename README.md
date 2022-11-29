@@ -53,4 +53,13 @@ Específicos:
 • 
 
 # 6. BIBLIOGRAFÍA
+
 TOMÁS, F. (2007). Principios de circuitos eléctricos.Octava edición.
+
+2N3904 Transistor. (s. f.). UNIT Electronics. https://uelectronics.com/producto/2n3904-transistor-bjt-npn-40v-to-92/
+
+Latam, M. (2021, 23 abril). Fotoresistor, LDR o Fotoresistencia. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/sensores/sensor-de-luz/ldr/
+
+Mecafenix, I. (2022, 8 noviembre). Potenciómetro ¿Qué es y como funciona? Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/potenciometro/
+
+Transistor Switching Circuit: Examples of How Transistor Acts as a Switch. (s. f.). https://circuitdigest.com/electronic-circuits/npn-and-pnp-transistor-switching-circuit-diagram
