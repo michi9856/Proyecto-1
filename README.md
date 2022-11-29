@@ -97,6 +97,8 @@ Específicos:
 
 # 4. VIDEO
 
+https://youtu.be/s5sXh_bYmtw
+
 # 5. CONCLUSIONES
 
 • En un circuito se pueden encontrar que muchos componentes estan en en serie y en paralelo, junto a lo aprendido amteriormente ya sabemos como pasamos de una simulacion a un circuito real.
