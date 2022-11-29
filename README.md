@@ -3,10 +3,12 @@ Led nocturno automático
 # Universidad de las Fuerzas Armadas "ESPE"
 
 Integrantes:
-Michael Toroche
 
-Jhon Quingatuña
+• Michael Bryan Toroche Quishpe
 
+• Jhon Steven Quingatuña Moreano
+
+• Anthony Javier Cevallos Ramírez
 
 NRC: 10063
 
