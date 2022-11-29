@@ -38,6 +38,9 @@ Específicos:
 
 # 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/116813974/204409279-8a6fe324-8de2-496a-a601-5d00326538b2.png)
+
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 # 4. VIDEO
