@@ -31,7 +31,7 @@ Específicos:
 
 • Aplicar los conceptos aprendidos como circuitos en serie y paralelo.
 
-• Determinar el efecto de la luz en el la fotocelda.
+• Determinar el efecto de la luz en la fotocelda.
 
 • Analizar y aplicar un campo util para dicho circuito.
 
@@ -103,7 +103,7 @@ Específicos:
 
 • Los componentes de dicho circuitos como el trancistor y el fotoresistor dan una nocion de ideas que podemos aplicar en diversos aspectos.
 
-• Hay muchas formas de armar el circuito, no especificamente como en el video, entonces buscamos una forma de que funcione ´pues hubo dificultades.
+• Hay muchas formas de armar el circuito, no especificamente como en el video, entonces buscamos una forma de que funcione pues hubo dificultades.
 
 # 6. BIBLIOGRAFÍA
 TOMÁS, F. (2007). Principios de circuitos eléctricos.Octava edición.
