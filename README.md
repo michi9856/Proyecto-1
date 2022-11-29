@@ -38,6 +38,9 @@ Específicos:
 
 # 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/116813974/204411596-ac9dc05e-cea6-480d-afce-55ac8e3c446f.png)
+
+
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ### Lista de materiales 
 •	Protoboard
